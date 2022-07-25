@@ -1,0 +1,14 @@
+{
+  "name": "smart-parking",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-http-proxy": "^1.6.3",
+    "morgan": "^1.10.0"
+  }
+}
